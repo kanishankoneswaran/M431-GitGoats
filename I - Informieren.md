@@ -1,8 +1,7 @@
-# M431  - GitGoats
+![](GitGoats.png)
 
 Kanishan Koneswaran & Filip Marinkovski
 
-![](GitGoats.png)
+# Informieren
 
-## Ideen
 
