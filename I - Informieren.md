@@ -1,4 +1,4 @@
-![](GitGoats.png)
+![](Bilder/GitGoats.png)
 
 Kanishan Koneswaran & Filip Marinkovski
 
@@ -11,7 +11,7 @@ Nach dem wir uns gut informiert haben und uns auch sicher waren, dass wir das Pr
 -----
 
 
-![](Projektauftrag.png)
+![](Bilder/Projektauftrag.png)
 
 
 

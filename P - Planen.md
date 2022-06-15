@@ -1,4 +1,4 @@
-![](GitGoats.png)
+![](Bilder/GitGoats.png)
 
 Kanishan Koneswaran & Filip Marinkovski
 
@@ -15,4 +15,4 @@ Wir orientierten uns an die SMART-Ziele, die wir bereits im Projektauftrag geset
 
 Zum Planen gehört vor allem das Zeitmanagement. Dazu erstellten wir ein GANTT-Diagramm. Ein GANTT-Diagramm ist perfekt, um den Zeitaufwand eines Projekts zu darstellen. Bei dem Diagramm orientierten wir uns wieder an der IPERKA-Methode. Das Diagramm erstellten wir auf Microsoft Excel.
 
-![](GANTT.png)
+![](Bilder/GANTT.png)
