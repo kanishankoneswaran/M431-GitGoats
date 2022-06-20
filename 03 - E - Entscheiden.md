@@ -9,4 +9,4 @@ Bevor es zum Realisieren geht, müssen einige Entscheidungen getroffen werden. D
 
 ![](Bilder/Nutzwertanalyse.png)
 
-Schlussendlich führte die Analyse zu Visual Studio Code, was wir uns eigentlich auch scho gedacht haben.
+Schlussendlich führte die Analyse zu Visual Studio Code, was wir uns eigentlich auch schon gedacht haben. Mit der Entscheidung sind wir sehr zufrieden und die Nutzwertanalyse hat hier sehr geholfen.
