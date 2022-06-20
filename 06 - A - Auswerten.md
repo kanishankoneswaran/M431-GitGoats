@@ -1,4 +1,4 @@
-![](GitGoats.png)
+![](Bilder/GitGoats.png)
 
 Kanishan Koneswaran & Filip Marinkovski
 
