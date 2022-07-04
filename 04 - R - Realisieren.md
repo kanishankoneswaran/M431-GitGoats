@@ -25,4 +25,4 @@ Nach dem schwierigsten Teil kam es zum einfachsten Teil der Realisierung. Nämli
 
 ![](Bilder/Bilderpage.png)
 
-Mit dieser Seite war die Realisierung somit beendet. Wir haben unsere Scripts zum Nachlesen aufs GitHub Repository hochgeladen. Diese findet man hier unter "HTML/CSS".
+Mit dieser Seite war die Realisierung somit beendet. Wir haben unsere Scripts zum Nachlesen aufs GitHub Repository hochgeladen. Diese findet man hier unter "HTML CSS".
