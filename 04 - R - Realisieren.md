@@ -17,4 +17,6 @@ Wir starteten mit der Homepage. Die war sehr einfach zu gestalten, da sie sehr s
 
 ![](Bilder/Homepage.png)
 
-Die Seite "Unsere Klasse" war am aufwändigsten zu Erstellen. Wir wollten ein sogenanntes Boxmodell aufbauen. Jeder Schüler sollte eine eigene Box haben mit Bild und Infos über sie. Die Box hat eine kleine Animation bekommen, wenn man mit der Maus drüber fährt.
+Die Seite "Unsere Klasse" war am aufwändigsten zu Erstellen. Wir wollten ein sogenanntes Boxmodell aufbauen. Jeder Schüler sollte eine eigene Box haben mit Bild und Infos über sie. Die Box hat eine kleine Animation bekommen, wenn man mit der Maus drüber fährt. Zum Boxmodell habe ich eine gute Anleitung gefunden. Die Animation war nicht wirklich schwierig, da ich hierzu auch ein passendes Tutorial gefunden habe. Die Infos und die Bilder haben wir vorher schon gesammelt und jetzt auch eingefügt. Es gab einige die uns keine Erlaubnis für Bilder erteilt haben. Für diese haben wir ein Personenicon eingefügt, statt dem Bild.
+
+![](Bilder/UnsereKlassepage.png)
