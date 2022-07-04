@@ -24,3 +24,5 @@ Die Seite "Unsere Klasse" war am aufwändigsten zu Erstellen. Wir wollten ein so
 Nach dem schwierigsten Teil kam es zum einfachsten Teil der Realisierung. Nämlich die Seite mit den ganzen Bilder. Hier haben wir ein paar lustige Bilder vom uns ausgesucht und eingefügt. Ich hatte etwas Probleme, diese Bilder nebeneinander zu plazieren, das konnte ich aber auch schnell fixen. Die Bilder sind absichtlich etwas lustig gestaltet, da dies unsere Klasse sehr gut repräsentiert. 
 
 ![](Bilder/Bilderpage.png)
+
+Mit dieser Seite war die Realisierung somit beendet. Wir haben unsere Scripts zum Nachlesen aufs GitHub Repository hochgeladen. Diese findet man hier unter "04 - R - Realisieren".
